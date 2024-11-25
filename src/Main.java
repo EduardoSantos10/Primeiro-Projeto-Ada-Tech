@@ -1,7 +1,7 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+
+        // Ex com Números
 
         int a;
         int b = 2;
@@ -14,7 +14,16 @@ public class Main {
         System.out.println(multiplicacao);
         System.out.println(subtracao);
         System.out.println(divisao);
+        //String nome = "Eduardo";
 
+        // Ex com String
+        String nome;
+        nome = "Eduardo";
+        nome = "Santos";
+        System.out.println(nome); // A saída será Santos, por ter sido o último valor a ser atribuido.
 
     }
+
+    // Declaração de String = String nome = "Eduardo";
+    // Declarção com int = int num = 10;
 }
