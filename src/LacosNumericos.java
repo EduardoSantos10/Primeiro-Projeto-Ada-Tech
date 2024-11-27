@@ -5,6 +5,7 @@ public class LacosNumericos {
                 System.out.println(j + "x" + i + " = " + j * i); // Tabuada de Multiplicação
                 // 1x1 = 1
                 // 1x2 = 2
+                //
             }
         }
     }
