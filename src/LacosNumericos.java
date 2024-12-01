@@ -1,6 +1,6 @@
 public class LacosNumericos {
     public static void main(String[] args) {
-        for(int i = 1; i <= 100; i++){ // Dentro do for eu faço a condição, i+=2 -> ele vai de 2 em 2.
+        for(int i = 1; i <= 10; i++){ // Dentro do for eu faço a condição, i+=2 -> ele vai de 2 em 2.
             for(int j = 1; j <= 10; j++){
                 System.out.println(j + "x" + i + " = " + j * i); // Tabuada de Multiplicação
                 // 1x1 = 1
